@@ -32,6 +32,13 @@ const categoryOption = [
   "Politics",
   "Sports",
   "Business",
+  "Entertainment",
+  "Travel",
+  "Lifestyle",
+  "Health",
+  "Education",
+  "Science",
+  "Others",
 ];
 
 const AddBlog = ({ user }) => {
